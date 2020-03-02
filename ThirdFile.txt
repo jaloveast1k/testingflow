@@ -1,2 +1,2 @@
 Forgot to add this, doing it during the release!!
-version is 0.1.1!!
+version is 0.1.2!!
